@@ -1,3 +1,3 @@
 # pull-request-demo
 
-Demo ready to Pull
+Demo Ready to Pull
